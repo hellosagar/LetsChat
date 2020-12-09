@@ -43,9 +43,9 @@ Thank you 😊. Have a Great Day.
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](ss/1.jpg) | ![Imgur](ss/2.jpg) | ![Imgur](ss/3.jpg) |
-| ![Imgur](ss/4.jpg) | ![Imgur](ss/5.jpg) | ![Imgur](ss/6.jpg) |
-| ![Imgur](ss/7.jpg) | ![Imgur](ss/8.jpg) | ![Imgur](ss/9.jpg) |
+| ![Imgur](ss/1.png) | ![Imgur](ss/2.png) | ![Imgur](ss/3.png) |
+| ![Imgur](ss/4.png) | ![Imgur](ss/5.png) | ![Imgur](ss/6.png) |
+| ![Imgur](ss/7.png) | ![Imgur](ss/8.png) | ![Imgur](ss/9.png) |
 
 ### 📌 Features
 - [x] Authentication using Firebase Auth
